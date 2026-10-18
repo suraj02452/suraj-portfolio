@@ -50,13 +50,13 @@ export const skillRows = [
     "REST APIs",
     "JWT Auth",
   ],
-  ["C++", "HTML5", "CSS3", "Git", "GitHub", "AWS", "Data Structures"],
+  ["C++", "HTML5", "CSS3", "Git", "GitHub", "AWS", "Python", "Data Structures"],
 ];
 
 export const skillGroups = [
   {
     title: "Languages",
-    items: ["Java", "C++", "JavaScript", "TypeScript", "SQL"],
+    items: ["Java", "C++", "Python", "JavaScript", "TypeScript", "SQL"],
   },
   {
     title: "Backend",
